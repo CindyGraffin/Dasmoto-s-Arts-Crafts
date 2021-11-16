@@ -4,7 +4,13 @@ It's a CodeCademy project i done on my own computer.
 
 ## Description
 
-I had to make the same result as the dasmatos-arts_redline.jpg starting from sratch.
+I had to make the same result starting from sratch as this redline :
+
+<div align="center">
+  <kbd>
+    <img src="Images/dasmotos-arts_redline.jpg"/>
+  </kbd>
+</div>
 
 ## Built with 
 
