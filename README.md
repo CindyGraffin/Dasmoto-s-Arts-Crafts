@@ -8,7 +8,7 @@ I had to make the same result starting from sratch with this redline :
 
 <div align="center">
   <kbd>
-    <img src="Images/dasmotos-arts_redline.jpg"/>
+    <img src="Images/dasmotos-arts_redline.jpg" width="500"/>
   </kbd>
 </div>
 
